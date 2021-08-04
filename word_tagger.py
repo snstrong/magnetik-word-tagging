@@ -3,37 +3,30 @@ from typing import Set
 import spacy
 import csv
 
-# Excerpt from Grimm's Fairy Tales text file used for testing
-File_object = open(encoding="UTF-8", file="nightingale.txt")
+File_object = open(encoding="UTF-8", file="grimms-fairy-tales.txt")
 
+# Using SpaCy's tagging features to get parts of speech for each word in file
 nlp = spacy.load("en_core_web_sm")
 doc = nlp(File_object.read())
+
 File_object.close()
 
 # Using a set here to eliminate duplicates
-# Limitation: can only use hashable data types, so will add text or lemma and pos as tuple
+# Set can only use hashable data types, so will add text/lemma and part of speech(pos) as tuple
 wordSet = set()
 
 for token in doc:
     if token.pos_ in ["NOUN", "VERB"]:
-        wordSet.add((token.lemma_, token.pos_))
+        # Only using lemmas here to get the "pure" form of the noun or verb (i.e., without pluralization or conjugation)
+        wordSet.add((token.lemma_.lower(), token.pos_))
     elif token.pos_ not in ["SYM", "NUM", "PROPN", "PUNCT", "SPACE"]:
-        wordSet.add((token.text, token.pos_))
-        wordSet.add((token.lemma_, token.pos_))
-# print(wordSet)
+        # Not adding symbols, numbers, proper nouns, punctuation, or spaces. Will need to add punctuation later, but was concerned about causing issues with csv file
+        wordSet.add((token.text.lower(), token.pos_))
+        wordSet.add((token.lemma_.lower(), token.pos_))
 
-# Checking for expected result
-if ('nightingale', 'NOUN') in wordSet:
-    print(True)
-else:
-    print(False)
-
-wordList = [[entry[0].lower(), entry[1]] for entry in wordSet]
-
-print(wordList[0:10])
-
+# Writing to csv
 fields = ["word", "pos"]
-rows = wordList
+rows = [[entry[0], entry[1]] for entry in wordSet]
 
 filename = "magnetik_word_data.csv"
 
