@@ -144,7 +144,6 @@ hamper,VERB
 love,NOUN
 match,NOUN
 disk,NOUN
-1.e.3,NOUN
 before,ADP
 branch,NOUN
 wedding,NOUN
@@ -152,7 +151,6 @@ different,ADJ
 travel,VERB
 deny,VERB
 steed,NOUN
-s,VERB
 trot,VERB
 daylight,NOUN
 neighbourly,ADJ
@@ -286,8 +284,6 @@ wreath,NOUN
 sprinkle,VERB
 health,NOUN
 obey,VERB
-1.e.8,NOUN
-1.f.1,NOUN
 tis,VERB
 brain,NOUN
 collar,NOUN
@@ -392,7 +388,6 @@ gaze,VERB
 eagerness,NOUN
 battlefield,NOUN
 pocket,NOUN
-’,VERB
 land,NOUN
 pile,VERB
 head,NOUN
@@ -467,7 +462,6 @@ involuntarily,ADV
 research,NOUN
 exchange,VERB
 other,ADJ
-then--,VERB
 herb,NOUN
 buzz,VERB
 sore,ADV
@@ -500,7 +494,6 @@ while,NOUN
 holiday,NOUN
 bake,NOUN
 amazed,ADJ
-philology,NOUN
 clean,VERB
 need,NOUN
 distress,VERB
@@ -595,7 +588,7 @@ a,DET
 braying,NOUN
 whatever,DET
 forfeit,VERB
-mourn’d,VERB
+mourn,VERB
 took,VERB
 milk,NOUN
 wait,VERB
@@ -648,7 +641,6 @@ nicely,ADV
 note,NOUN
 glass,NOUN
 else,ADJ
-tm,NOUN
 leisure,NOUN
 eager,ADJ
 garden,NOUN
@@ -670,7 +662,6 @@ thirdly,ADV
 date,NOUN
 hundred,NOUN
 paper,NOUN
-1.f.2,NOUN
 art,NOUN
 wisdom,NOUN
 prevent,VERB
@@ -682,7 +673,6 @@ breed,VERB
 choose,VERB
 oneself,PRON
 acknowledge,VERB
-unenforceability,NOUN
 basket,NOUN
 pitcher,NOUN
 kid,NOUN
@@ -701,7 +691,6 @@ other,NOUN
 line,NOUN
 fork,NOUN
 permission,NOUN
-wo,AUX
 magic,NOUN
 wretchedness,NOUN
 moreover,ADV
@@ -747,7 +736,6 @@ companion,NOUN
 entrance,NOUN
 charming,ADJ
 sorrow,NOUN
-jemmy,VERB
 crafty,ADJ
 boil,VERB
 unbound,ADJ
@@ -768,7 +756,6 @@ betray,VERB
 spite,NOUN
 scanty,NOUN
 plant,VERB
-fowler,NOUN
 into,ADP
 fat,ADJ
 clutch,VERB
@@ -806,7 +793,6 @@ liability,NOUN
 crumble,VERB
 fight,VERB
 reality,NOUN
-electronic,ADJ
 blind,VERB
 greedy,ADJ
 nor,CCONJ
@@ -823,7 +809,6 @@ tub,NOUN
 hi,INTJ
 equally,ADV
 peep,NOUN
-poodle,ADJ
 skill,NOUN
 bundle,NOUN
 share,VERB
@@ -841,7 +826,6 @@ redistribute,VERB
 push,NOUN
 chirping,NOUN
 wish,VERB
-1.f.3,NOUN
 bellow,ADJ
 helpless,ADJ
 laugh,VERB
@@ -893,7 +877,6 @@ scorch,VERB
 huntsman,NOUN
 detail,NOUN
 meanwhile,ADV
-shew,VERB
 coil,VERB
 nudge,VERB
 slyly,ADV
@@ -909,7 +892,6 @@ unhappiness,NOUN
 stitch,VERB
 mine,PRON
 sad,ADJ
-fundevogel,VERB
 expend,VERB
 wash,VERB
 useful,ADJ
@@ -1026,7 +1008,6 @@ brew,VERB
 taste,NOUN
 firmly,ADV
 tall,ADJ
-’--and,ADV
 nigh,ADJ
 wit,NOUN
 ensure,VERB
@@ -1067,7 +1048,6 @@ casket,NOUN
 heap,VERB
 tonight,NOUN
 user,NOUN
-grete,INTJ
 sadder,ADJ
 dame,NOUN
 robbing,NOUN
@@ -1077,7 +1057,6 @@ proofread,NOUN
 sentence,VERB
 reign,VERB
 most,ADJ
--,ADJ
 gown,NOUN
 vexation,NOUN
 shrewd,ADJ
@@ -1111,7 +1090,6 @@ got,AUX
 morrow,NOUN
 thrush,ADJ
 constable,ADJ
-1.e.9,NOUN
 faced,ADJ
 hazel,NOUN
 angry,ADJ
@@ -1158,7 +1136,6 @@ baron,NOUN
 chop,VERB
 beating,NOUN
 lair,NOUN
-hypertext,NOUN
 pot,NOUN
 frightened,ADJ
 dwelling,NOUN
@@ -1166,7 +1143,7 @@ lathe,NOUN
 darling,NOUN
 chimney,NOUN
 craftsman,NOUN
-manikin,NOUN
+mannequin,NOUN
 awaken,VERB
 gradually,ADV
 castle,NOUN
@@ -1182,7 +1159,6 @@ puddle,NOUN
 duke,NOUN
 wherever,ADV
 snip,VERB
-bees’-n,ADJ
 goal,NOUN
 manage,VERB
 bread,NOUN
@@ -1192,7 +1168,6 @@ windowframe,VERB
 painter,NOUN
 bidding,NOUN
 prophesy,VERB
-’m,VERB
 duck,NOUN
 pounce,VERB
 direct,VERB
@@ -1206,19 +1181,15 @@ haired,ADJ
 access,VERB
 murderous,ADJ
 property,NOUN
-slave,NOUN
 right,NOUN
 approach,VERB
 shift,VERB
 dungeon,NOUN
-dummling,NOUN
 gaily,ADV
 beast,NOUN
 gracious,ADJ
 haughty,ADJ
-sang--,NOUN
 meantime,NOUN
-ste,VERB
 employ,VERB
 fearfully,ADV
 tie,VERB
@@ -1234,7 +1205,6 @@ hawk,NOUN
 bung,NOUN
 calm,ADJ
 believe,VERB
-no,ADV
 officer,NOUN
 share,NOUN
 working,NOUN
@@ -1302,13 +1272,11 @@ royal,ADJ
 hollow,ADJ
 handsome,ADJ
 bawl,VERB
--,NOUN
 hasten,VERB
 mischief,NOUN
 fine,ADV
 charity,NOUN
 near,ADV
-o’clock,ADJ
 stitch,NOUN
 drive,VERB
 slend,ADJ
@@ -1324,8 +1292,7 @@ parson,NOUN
 pluck,VERB
 nestle,VERB
 mount,NOUN
-’,PART
-slyly,NOUN
+sly,ADJ
 more,ADJ
 ridge,NOUN
 there,ADV
@@ -1404,16 +1371,13 @@ execute,VERB
 mercy,NOUN
 comical,ADJ
 blood,NOUN
-datum,NOUN
 rusty,ADJ
 voyage,NOUN
 stride,VERB
 stronger,ADJ
-whu,VERB
 remember,VERB
 flap,VERB
 intent,NOUN
-’s,ADV
 civil,ADJ
 tablet,NOUN
 aside,ADV
@@ -1423,7 +1387,6 @@ ambassador,NOUN
 warrior,NOUN
 condemn,VERB
 sheer,ADJ
-rapunzel,ADJ
 get,VERB
 heartily,ADV
 disposition,NOUN
@@ -1441,7 +1404,6 @@ convey,VERB
 produce,VERB
 chanticleer,NOUN
 craftily,ADV
-fle,VERB
 snail,NOUN
 thicker,ADJ
 leg,NOUN
@@ -1557,7 +1519,6 @@ burst,NOUN
 cheap,ADJ
 hunter,NOUN
 guard,VERB
-o’clock,NOUN
 fish,VERB
 an,DET
 upper,ADJ
@@ -1576,7 +1537,7 @@ excellence,NOUN
 boiling,NOUN
 appetite,NOUN
 control,VERB
-crosse,NOUN
+cross,NOUN
 after,ADP
 bar,NOUN
 married,ADJ
@@ -1632,7 +1593,6 @@ like,VERB
 fell,VERB
 place,VERB
 betrothed,NOUN
-twa,VERB
 at,ADP
 shall,AUX
 bespoke,VERB
@@ -1666,9 +1626,8 @@ alone,ADJ
 ruin,VERB
 mercilessly,ADV
 yellow,ADJ
-bees’-nest,ADJ
+hive,ADJ
 wonder,NOUN
-forest?--we,ADJ
 charitable,ADJ
 besides,ADV
 lonely,ADJ
@@ -1734,7 +1693,6 @@ either,DET
 rip,VERB
 fishing,NOUN
 vegetable,NOUN
-jollily,ADV
 fear,NOUN
 remembrance,NOUN
 earn,VERB
@@ -1793,7 +1751,6 @@ spellbound,NOUN
 crystal,NOUN
 summon,VERB
 better,VERB
-’s,PRON
 cheese,NOUN
 hole,NOUN
 fairest,ADJ
@@ -1842,7 +1799,6 @@ mishap,NOUN
 wipe,VERB
 foam,VERB
 give,VERB
-www.gutenberg.org,NOUN
 outskirt,NOUN
 insult,VERB
 swiftly,ADV
@@ -1867,7 +1823,6 @@ tempt,VERB
 fry,VERB
 fleecy,NOUN
 cloth,NOUN
-re,VERB
 breeze,NOUN
 chat,NOUN
 conscious,ADJ
@@ -1892,7 +1847,6 @@ peep,VERB
 figure,NOUN
 thread,NOUN
 redistribution,NOUN
-sugarloaf,NOUN
 chirp,VERB
 stream,VERB
 ropemaker,NOUN
@@ -1917,7 +1871,7 @@ wondrous,ADJ
 arise,VERB
 commander,NOUN
 stately,ADJ
-i,PRON
+I,PRON
 dove,NOUN
 sock,NOUN
 perfectly,ADV
@@ -1990,7 +1944,7 @@ read,VERB
 jump,VERB
 stormy,ADJ
 smart,ADJ
-grete,VERB
+grate,VERB
 problem,NOUN
 upstairs,ADV
 willing,ADJ
@@ -2120,7 +2074,6 @@ high,ADJ
 quite,DET
 website,NOUN
 dawn,NOUN
-slut,NOUN
 godchild,NOUN
 demand,VERB
 scatter,VERB
@@ -2138,11 +2091,9 @@ awkward,ADJ
 original,ADJ
 constant,ADJ
 strike,VERB
-computer,NOUN
 interpret,VERB
 tell,VERB
 boot,NOUN
-ween,NOUN
 lose,VERB
 make,VERB
 assign,VERB
@@ -2168,7 +2119,6 @@ croak,NOUN
 enable,VERB
 chaffinch,NOUN
 profit,NOUN
-1.e.9,VERB
 we,PRON
 innocent,ADJ
 intertwine,VERB
@@ -2202,7 +2152,6 @@ silk,NOUN
 cross,VERB
 luck,NOUN
 unkindly,ADV
-comb’d,X
 comb,NOUN
 deceive,VERB
 comfort,VERB
@@ -2228,7 +2177,7 @@ giant,NOUN
 yonder,NOUN
 ounce,NOUN
 troubled,ADJ
-scornfully,ADV
+scornful,ADJ
 kick,VERB
 dream,VERB
 hug,VERB
@@ -2248,7 +2197,7 @@ keeping,NOUN
 stuck,NOUN
 link,NOUN
 rack,NOUN
-pleasantly,ADV
+pleasant,ADJ
 flock,NOUN
 answer,NOUN
 fare,NOUN
@@ -2260,7 +2209,6 @@ although,SCONJ
 solicit,VERB
 resolve,VERB
 bolt,VERB
-1.e.1,NOUN
 pebble,NOUN
 accordance,NOUN
 bewitch,VERB
@@ -2278,7 +2226,6 @@ thoroughly,ADV
 count,NOUN
 borrow,VERB
 copy,VERB
-tiresome!--so,ADJ
 thing,NOUN
 scold,VERB
 paw,NOUN
@@ -2306,11 +2253,10 @@ snowdrop,NOUN
 perch,VERB
 blow,VERB
 fright,ADJ
-rumpelstiltskin,NOUN
 hump,NOUN
 tooth,NOUN
 besides,SCONJ
-curl’d,VERB
+curl,VERB
 forester,NOUN
 whole,ADJ
 modification,NOUN
@@ -2334,7 +2280,6 @@ merciful,ADJ
 hornet,NOUN
 round,ADJ
 appease,VERB
-1.e.5,NOUN
 situation,NOUN
 font,NOUN
 hen,NOUN
@@ -2370,13 +2315,10 @@ news,NOUN
 crevice,NOUN
 bridge,NOUN
 apron,NOUN
-www.gutenberg.org/donate,NOUN
 bold,ADJ
 their,PRON
 journey,NOUN
--,VERB
 liking,NOUN
-ebook,NOUN
 newly,ADV
 enjoy,VERB
 point,NOUN
@@ -2484,10 +2426,8 @@ dog,NOUN
 smoke,NOUN
 future,NOUN
 standing,NOUN
-jorindel,VERB
 swell,VERB
 renowned,ADJ
-sultan,NOUN
 blue,ADJ
 fiery,ADJ
 idle,ADJ
@@ -2588,7 +2528,6 @@ round,NOUN
 astonish,VERB
 devour,VERB
 trusty,ADJ
-lighthearte,VERB
 any,ADV
 shrivel,VERB
 dirt,NOUN
@@ -2601,7 +2540,6 @@ cheerful,ADJ
 rude,ADJ
 prohibition,NOUN
 elf,NOUN
-eld,ADJ
 ragamuffin,VERB
 frontispiece,NOUN
 whither,NOUN
@@ -2642,9 +2580,7 @@ inherit,VERB
 wrap,VERB
 valour,NOUN
 readily,ADV
-email,NOUN
 lid,NOUN
-’re,VERB
 armour,NOUN
 are,AUX
 captain,NOUN
@@ -2696,7 +2632,6 @@ reach,NOUN
 broom,NOUN
 screw,NOUN
 hast,NOUN
-stealer,NOUN
 impatient,ADJ
 screaming,NOUN
 and,CCONJ
@@ -2733,7 +2668,6 @@ splendour,NOUN
 wine,NOUN
 being,AUX
 kindly,ADV
-ca,AUX
 wretch,VERB
 woe,NOUN
 grim,ADJ
@@ -2742,7 +2676,6 @@ gladness,NOUN
 fatigue,NOUN
 fifteenth,NOUN
 oven,NOUN
-dig,X
 rapidity,NOUN
 tale,NOUN
 sweat,NOUN
@@ -2762,7 +2695,6 @@ this,DET
 refuse,VERB
 supper,NOUN
 smack,VERB
-frolick’d,NOUN
 copyright,NOUN
 late,ADJ
 yours,PRON
@@ -2795,7 +2727,6 @@ successive,ADJ
 afar,ADV
 mouth,NOUN
 indeed,ADV
-’m,AUX
 afterwards,ADV
 tusk,NOUN
 clever,ADJ
@@ -2808,7 +2739,6 @@ breast,NOUN
 comforted,ADJ
 float,NOUN
 agreement,NOUN
-b,NOUN
 kind,ADV
 translation,NOUN
 curse,VERB
@@ -2854,7 +2784,7 @@ happy,ADJ
 fuel,NOUN
 payment,NOUN
 prettily,ADV
-straiten,VERB
+straighten,VERB
 sausage,NOUN
 mumble,VERB
 in,ADP
@@ -2882,7 +2812,6 @@ rarest,ADJ
 rough,ADJ
 sitting,NOUN
 dearth,NOUN
-holle,NOUN
 morning,NOUN
 sty,NOUN
 rogue,NOUN
@@ -2901,7 +2830,6 @@ impose,VERB
 horror,NOUN
 become,VERB
 cursed,ADJ
-e,NOUN
 birch,NOUN
 joyfully,ADV
 stepsister,NOUN
@@ -2924,7 +2852,6 @@ chat,VERB
 shiver,VERB
 mighty,ADJ
 announce,VERB
-’s,VERB
 disgust,VERB
 adopt,VERB
 pointed,ADJ
@@ -3012,7 +2939,6 @@ best,ADV
 shower,NOUN
 mischance,NOUN
 kind,ADJ
-krr,NOUN
 burn,VERB
 green,ADJ
 scoundrel,NOUN
@@ -3081,7 +3007,6 @@ reel,VERB
 bethought,VERB
 folly,NOUN
 dirty,ADJ
-ass,NOUN
 beneath,ADV
 despise,VERB
 bruise,VERB
@@ -3091,7 +3016,6 @@ go,VERB
 winter,NOUN
 creature,NOUN
 tread,VERB
-"certain,--i",NOUN
 dainty,ADJ
 owner,NOUN
 grain,NOUN
@@ -3208,7 +3132,6 @@ outer,ADJ
 obedient,ADJ
 organize,VERB
 marshal,NOUN
-pg,NOUN
 mark,NOUN
 undo,VERB
 spacious,ADJ
@@ -3219,10 +3142,8 @@ rascally,ADJ
 mourn,VERB
 pretty,ADV
 fewer,ADJ
-here?--speak,VERB
 flake,NOUN
 actually,ADV
-1.e.7,NOUN
 tiled,ADJ
 gold,ADJ
 reproach,VERB
@@ -3232,7 +3153,6 @@ finally,ADV
 spinning,NOUN
 lick,VERB
 plenty,NOUN
-han,NOUN
 quietly,ADV
 fickle,ADJ
 anxious,ADJ
@@ -3257,7 +3177,6 @@ comb,VERB
 comrade,NOUN
 hark,NOUN
 merrily,ADV
-cock,NOUN
 trance,NOUN
 table,NOUN
 plan,NOUN
@@ -3292,7 +3211,6 @@ hare,NOUN
 lie,VERB
 pan,NOUN
 except,SCONJ
-1.f.6,NOUN
 however,ADV
 trifle,NOUN
 below,ADP
@@ -3315,11 +3233,9 @@ reed,NOUN
 lion,NOUN
 shin,ADJ
 paperwork,NOUN
-_,PRON
 clung,ADJ
 bond,NOUN
 strangle,VERB
-1.e.1,VERB
 sniff,VERB
 worse,ADV
 dew,NOUN
@@ -3377,7 +3293,7 @@ shout,NOUN
 jailer,NOUN
 cure,NOUN
 suckle,VERB
-skilful,ADJ
+skillful,ADJ
 thirteenth,ADJ
 boldly,ADV
 entangle,VERB
@@ -3396,7 +3312,6 @@ dislike,VERB
 thrice,NOUN
 fit,ADJ
 facility,NOUN
-_,NOUN
 mockingly,ADV
 fury,NOUN
 whet,VERB
@@ -3443,7 +3358,6 @@ journey,VERB
 suit,NOUN
 wild,ADJ
 daily,ADV
-ebook,VERB
 sole,ADJ
 slaughter,NOUN
 hack,NOUN
@@ -3513,7 +3427,6 @@ quite,ADJ
 possess,VERB
 housework,NOUN
 publish,VERB
-me!--my,NOUN
 worse,ADJ
 tight,ADJ
 over,ADV
@@ -3560,7 +3473,6 @@ poverty,NOUN
 thine,ADJ
 pure,ADJ
 every,DET
-[,X
 fresh,ADJ
 godmother,NOUN
 stool,NOUN
@@ -3703,7 +3615,6 @@ old,ADJ
 hate,VERB
 stocking,NOUN
 grasshopper,NOUN
-501(c)(3,NOUN
 free,ADJ
 all,ADV
 use,NOUN
@@ -3716,7 +3627,7 @@ continue,VERB
 can,AUX
 ant,NOUN
 pasture,NOUN
-whirl’d,NOUN
+whirl,VERB
 behave,VERB
 honest,ADJ
 oho,INTJ
@@ -3725,20 +3636,17 @@ collaborate,VERB
 prove,VERB
 current,ADJ
 wound,NOUN
-lame,ADJ
 hobblety,NOUN
 outside,ADV
 shelter,NOUN
 nonproprietary,ADJ
 arrange,VERB
-contemptuously,ADV
-wert,VERB
+contemptuous,ADJ
 senseless,ADV
 sleeve,NOUN
 search,VERB
 nest,NOUN
 to,ADV
-%,NOUN
 overtook,VERB
 likely,ADV
 night,NOUN
@@ -3776,7 +3684,6 @@ of,ADV
 arrive,VERB
 grass,NOUN
 howsoever,NOUN
-www.gutenberg.org/contact,NOUN
 awake,VERB
 mayor,NOUN
 lazy,ADJ
@@ -3792,7 +3699,6 @@ attached,ADJ
 rage,VERB
 council,NOUN
 forthwith,NOUN
-jip,X
 idle,VERB
 upright,ADJ
 exist,VERB
@@ -3817,8 +3723,6 @@ harm,NOUN
 farther,ADV
 bleed,VERB
 play,VERB
-],X
-1.c,NOUN
 to,ADP
 license,NOUN
 cunning,ADJ
@@ -3847,7 +3751,6 @@ dread,NOUN
 espy,VERB
 loveliest,ADV
 rueful,ADJ
-taler,NOUN
 calling,NOUN
 medicine,NOUN
 frightful,ADJ
@@ -3921,7 +3824,6 @@ firm,ADJ
 stroke,NOUN
 habit,NOUN
 bitterly,ADV
-that!--some,NOUN
 busybody,NOUN
 light,VERB
 engage,VERB
@@ -3994,7 +3896,6 @@ alarm,VERB
 overjoyed,ADJ
 notice,VERB
 merchant,NOUN
-c,NOUN
 pantry,NOUN
 abode,NOUN
 course,ADV
@@ -4430,7 +4331,6 @@ undoubtedly,ADV
 plaything,NOUN
 discern,VERB
 coat,NOUN
-forest?--the,DET
 terror,NOUN
 out,SCONJ
 crouch,VERB
